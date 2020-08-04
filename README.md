@@ -1,6 +1,6 @@
 <h1 align=center> Akshat Sood </h1>
 
-<p align=center>Hi There 👋 I would like to introduce myself as <b>Akshat Sood</b> 😎 , a versitile and diligent tyro in sphere of <b>Data Science</b> 📊 , <b>Robotics</b> 🤖 and <b>Competitve Programming</b> 💖 utilizing each and every oppurtunity to deliver my best performances at all stages of life. I am currently working on diverse domains of Data Science exploring the gargantuan set 🐋 of data and segragating an optimal part of it to automate the boring stuffs and computing predictions in real world scenario</p>
+<p align=center>Hi There 👋 I would like to introduce myself as <b>Akshat Sood</b> 😎 , a versitile and diligent tyro in sphere of <b>Data Science</b> 📊 , <b>Robotics</b> 🤖 and <b>Competitive Programming</b> 💖 utilizing each and every oppurtunity to deliver my best performances at all stages of life. I am currently working on diverse domains of Data Science exploring the gargantuan set 🐋 of data and segragating an optimal part of it to automate the boring stuffs and computing predictions in real world scenario</p>
 
 > *Never underestimate the weak and overestimate the strong*
 
