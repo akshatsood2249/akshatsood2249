@@ -2,7 +2,7 @@
 
 <p align=center>Proud Indian 💖 and Passionate Programmer<br>
     <em>Never Overestimate the Strong and Underestimate the Weak</em>
-</p>
+</p><br>
 
 <p align=center>
     <a href="https://github.com/akshatsood2249?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/akshatsood2249.svg?style=social&label=Follow&maxAge=2592000"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
