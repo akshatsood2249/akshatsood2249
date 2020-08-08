@@ -2,7 +2,7 @@
 
 <p align=center>Proud Indian 💖 and Passionate Programmer<br>
     <em>Never Overestimate the Strong and Underestimate the Weak</em>
-</p><br>
+</p>
 
 <p align=center>
     <a href="https://github.com/akshatsood2249?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/akshatsood2249.svg?style=social&label=Follow&maxAge=2592000"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -24,9 +24,9 @@
 <h3 align=center> Connect with Me</h3>
 
 <p align=center>
-    <a href="" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-32.png"></a>&nbsp;&nbsp;&nbsp;
-    <a href="" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/25_social-32.png"></a>&nbsp;&nbsp;&nbsp;
-    <a href="" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-32.png"></a>&nbsp;&nbsp;&nbsp;
-    <a href="" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-32.png"></a>&nbsp;&nbsp;&nbsp;
-    <a href="" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/twitter-32.png"></a>
+    <a href="https://www.facebook.com/akshatsood2249" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-32.png"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/akshatsood_209/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/25_social-32.png"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://stackoverflow.com/users/story/13897142?newreg=d8c553c1073a4b44a9b2bba9c298eac7" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-32.png"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/akshatsood2249" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-32.png"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/AkshatSood20" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/twitter-32.png"></a>
 </p>
