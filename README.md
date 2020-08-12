@@ -11,7 +11,7 @@
 </p><br>
 
 <p align=center>
-    Hi there 👋, I am <b>Akshat Sood</b> a versatile and a diligent tyro in sphere of <b>Data Science 📊</b> , <b>Competitive Programming 💻</b> and <b>Robotics 🤖</b> utilizing each and every opurtunity to deliver my best performances at all stages of Life 😎 <br><br>
+    Hi there 👋, I am <b>Akshat Sood</b> a versatile and a diligent tyro in sphere of <b>Data Science 📊</b> , <b>Competitive Programming 💻</b> and <b>Robotics 🤖</b> utilizing each and every oppurtunity to deliver my best performances at all stages of Life 😎 <br><br>
     I am currently exploring diverse domains in Data Science like <b>Machine Learning</b> , <b>Deep Learning</b> and <b>Natural Language Processing</b> trying to unwrap concealed facts and relevant insights from messy data <br><br>
     I personally believe that <em>Time</em>🕒<em> is the Greatest Conquerer</em> and hence one should make use of it optimally as everyone gets 24 hours in a day yet how you manage your day sets you apart from the gargantuan 🐋 crowd <br><br>
     As a stress buster I love playing Table Tennis 🏓 , listen to Music 🎵 and practice Yoga 🧘🏻 to discover my innerself
