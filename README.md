@@ -19,7 +19,7 @@
 </p><br>
 
 <p align=center>
-<img src="Banner.jpg">
+<img src="https://github.com/akshatsood2249/akshatsood2249/blob/master/Banner.jpg">
 </p>
 <br>
 
