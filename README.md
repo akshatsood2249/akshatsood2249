@@ -20,7 +20,8 @@
 
 <p align=center>
 <img src="Banner.jpg">
-</p><br>
+</p>
+<br>
 
 <p align=center>
     Hi there 👋, I am <b>Akshat Sood</b> a versatile and a diligent tyro in sphere of <b>Data Science 📊</b> , <b>Competitive Programming 💻</b> and <b>Robotics 🤖</b> utilizing each and every oppurtunity to deliver my best performances at all stages of Life 😎 <br><br>
