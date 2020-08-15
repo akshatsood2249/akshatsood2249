@@ -18,7 +18,9 @@
     <a href="https://GitHub.com/akshatsood2249/StrapDown.js/network/" target="_blank"><img src="https://img.shields.io/github/forks/akshatsood2249/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000"></a> -->
 </p><br>
 
-![](Banner.jpg)
+<p align=center>
+<img src="Banner.jpg>
+</p>
 
 <p align=center>
     Hi there 👋, I am <b>Akshat Sood</b> a versatile and a diligent tyro in sphere of <b>Data Science 📊</b> , <b>Competitive Programming 💻</b> and <b>Robotics 🤖</b> utilizing each and every oppurtunity to deliver my best performances at all stages of Life 😎 <br><br>
