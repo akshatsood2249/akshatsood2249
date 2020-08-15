@@ -1,14 +1,24 @@
 <h1 align=center>Akshat Sood</h1>
 
 <p align=center>Proud Indian 💖 and Passionate Programmer<br>
-    <em>Never Overestimate the Strong and Underestimate the Weak</em>
+    <em>Never Overestimate the Strong and Underestimate the Weak</em><br><br>
+    <img src="https://img.shields.io/badge/Python-green">
+    <img src="https://img.shields.io/badge/Machine Learning-important">
+    <img src="https://img.shields.io/badge/Deep Learning-yellow">
+    <img src="https://img.shields.io/badge/Natural Language Processing-critical">
+    <img src="https://img.shields.io/badge/C++-blue">
+    <img src="https://img.shields.io/badge/Java-success">
 </p>
 
 <p align=center>
+    <img src="https://badges.pufler.dev/visits/akshatsood2249/akshatsood2249">
+    <img src="https://badges.pufler.dev/repos/akshatsood2249">
     <a href="https://github.com/akshatsood2249?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/akshatsood2249.svg?style=social&label=Follow&maxAge=2592000"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <!--     <a href="https://GitHub.com/akshatsood2249/StrapDown.js/stargazers/" target="_blank"><img src="https://img.shields.io/github/stars/akshatsood2249/StrapDown.js.svg?style=social&label=Star&maxAge=2592000"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <a href="https://GitHub.com/akshatsood2249/StrapDown.js/network/" target="_blank"><img src="https://img.shields.io/github/forks/akshatsood2249/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000"></a> -->
 </p><br>
+
+![](Banner.jpg)
 
 <p align=center>
     Hi there 👋, I am <b>Akshat Sood</b> a versatile and a diligent tyro in sphere of <b>Data Science 📊</b> , <b>Competitive Programming 💻</b> and <b>Robotics 🤖</b> utilizing each and every oppurtunity to deliver my best performances at all stages of Life 😎 <br><br>
@@ -18,7 +28,8 @@
 </p><br>
 
 <p align=center>
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=akshatsood2249&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Github stats" title="Github Stats">
+    <a href="https://github.com/akshatsood2249/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsood2249&layout=compact"></a><br><br>
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=akshatsood2249&show_icons=true">
 </p>
 
 <h3 align=center> Connect with Me</h3>
