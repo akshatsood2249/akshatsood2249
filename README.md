@@ -2,6 +2,7 @@
 
 <p align=center>Proud Indian 💖 and Passionate Programmer<br>
     <em>Never Overestimate the Strong and Underestimate the Weak</em><br><br>
+    <img src="https://img.shields.io/badge/Robotics-blueviolet">
     <img src="https://img.shields.io/badge/Python-green">
     <img src="https://img.shields.io/badge/Machine Learning-important">
     <img src="https://img.shields.io/badge/Deep Learning-yellow">
