@@ -20,7 +20,7 @@
 </p><br>
 
 <p align=center>
-    <img src="https://github.com/akshatsood2249/akshatsood2249/blob/master/Banner.jpg" align=left width='300'>
+    <img src="https://github.com/akshatsood2249/akshatsood2249/blob/master/Banner.jpg" align=right width='300'>
 <!--     <img src="Banner.jpg" style.float='left' align=left width='300'> -->
     Hi there 👋, I am <b>Akshat Sood</b> a versatile and a diligent tyro in sphere of <b>Data Science 📊</b> , <b>Competitive Programming 💻</b> and <b>Robotics 🤖</b> utilizing each and every oppurtunity to deliver my best performances at all stages of Life 😎 <br><br>
     I am currently exploring diverse domains in Data Science like <b>Machine Learning</b> , <b>Deep Learning</b> and <b>Natural Language Processing</b> trying to unwrap concealed facts and relevant insights from messy data <br><br>
