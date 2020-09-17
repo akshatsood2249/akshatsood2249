@@ -29,7 +29,8 @@
 </p><br>
 
 <p align=center>
-    <a href="https://github.com/akshatsood2249/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsood2249&layout=compact"></a><br><br>
+    <a href="https://github.com/akshatsood2249"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsood2249&layout=compact"></a>
+    <br><br>
   <img align=center src="https://github-readme-stats.vercel.app/api?username=akshatsood2249&show_icons=true">
 </p>
 
