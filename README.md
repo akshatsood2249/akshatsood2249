@@ -19,10 +19,8 @@
     <a href="https://GitHub.com/akshatsood2249/StrapDown.js/network/" target="_blank"><img src="https://img.shields.io/github/forks/akshatsood2249/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000"></a> -->
 </p>
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align=center>
-
 <p align=center>
-    <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" align=right width='400'>
+    <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" align=right width='420'>
 I am an ardent follower of Data Science with a rich interest in the domain of <b>Reinforcement Learning</b> witnessing its herculean impact all over the globe. I have assembled a lot of Projects to hone my skills and map my theoritical knowledge on a practical scale. 
     
 Currently I am working to amalgamate the cosmic power of Data Science and <b>Robotics</b> to construct something innovative and considerate.<b>Programming</b> has now became an integral part of my life and if possible I can spend a day coding awesome stuff xD . 
