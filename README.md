@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/Docker-red">
     <img src="https://img.shields.io/badge/SQL-orange">
     <img src="https://img.shields.io/badge/Tableau-blueviolet">
+    <img src="https://img.shields.io/badge/Git-yellow">
 </p>
 
 <p align=center>
@@ -37,7 +38,7 @@ Keeping my passion for coding aside, I also spend time surfing <b>electronics</b
   <img align=center src="https://github-readme-stats.vercel.app/api?username=akshatsood2249&show_icons=true">
 </p>
 
-<h3 align=center> Connect with Me</h3>
+<br>
 
 <p align=center>
     <a href="https://www.facebook.com/akshatsood2249" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-32.png"></a>&nbsp;&nbsp;&nbsp;
