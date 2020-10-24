@@ -20,7 +20,7 @@
 </p>
 
 <p align=center>
-    <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" align=right width='420'>
+    <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" align=right width='410'>
 I am an ardent follower of Data Science with a rich interest in the domain of <b>Reinforcement Learning</b> witnessing its herculean impact all over the globe. I have assembled a lot of Projects to hone my skills and map my theoritical knowledge on a practical scale. 
     
 Currently I am working to amalgamate the cosmic power of Data Science and <b>Robotics</b> to construct something innovative and considerate.<b>Programming</b> has now became an integral part of my life and if possible I can spend a day coding awesome stuff xD . 
