@@ -1,5 +1,5 @@
 <h1 align=center>Akshat Sood</h1>
-
+<br>
 <p align=center><em>Proud Indian and Passionate Programmer</em><br>
     <img src="https://img.shields.io/badge/Robotics-blueviolet">
     <img src="https://img.shields.io/badge/Python-blue">
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Docker-red">
     <img src="https://img.shields.io/badge/SQL-orange">
 </p>
-
+<br>
 <p align=center>
     <img src="https://badges.pufler.dev/visits/akshatsood2249/akshatsood2249">
     <img src="https://badges.pufler.dev/repos/akshatsood2249">
@@ -19,7 +19,7 @@
     <a href="https://GitHub.com/akshatsood2249/StrapDown.js/network/" target="_blank"><img src="https://img.shields.io/github/forks/akshatsood2249/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000"></a> -->
 </p><br>
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+//### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align=center>
 
 <p align=center>
     <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" align=right width='350'>
