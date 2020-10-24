@@ -1,6 +1,6 @@
 <h1 align=center>Akshat Sood</h1>
 
-<p align=center><em>Proud Indian and Passionate Programmer</em><br>
+<p align=center><em>Proud Indian and Passionate Programmer</em><br><br>
     <img src="https://img.shields.io/badge/Robotics-blueviolet">
     <img src="https://img.shields.io/badge/Python-blue">
     <img src="https://img.shields.io/badge/Reinforcement Learning-important">
@@ -25,7 +25,9 @@
     <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" align=right width='400'>
 I am an ardent follower of Data Science with a rich interest in the domain of <b>Reinforcement Learning</b> witnessing its herculean impact all over the globe. I have assembled a lot of Projects to hone my skills and map my theoritical knowledge on a practical scale. 
     
-Currently I am working to amalgamate the cosmic power of Data Science and <b>Robotics</b> to construct something innovative and considerate.<b>Programming</b> has now became an integral part of my life and if possible I can spend a day coding awesome stuff xD . I personally believe that <b>time</b> is the greatest conquerer and hence one should make use of it optimally as everyone gets 24 hours in a day, yet how you manage your day sets you apart from the gargantuan crowd. 
+Currently I am working to amalgamate the cosmic power of Data Science and <b>Robotics</b> to construct something innovative and considerate.<b>Programming</b> has now became an integral part of my life and if possible I can spend a day coding awesome stuff xD . 
+
+I personally believe that <b>time</b> is the greatest conquerer and hence one should make use of it optimally as everyone gets 24 hours in a day, yet how you manage your day sets you apart from the gargantuan crowd. 
 
 Keeping my passion for coding aside, I also spend time surfing <b>electronics</b>, listen to music to relax my crabby mind and practice yoga to discover my innerself and deeply understand the real meaning and significance of life.
 </p><br>
