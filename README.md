@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/C++-blue">
     <img src="https://img.shields.io/badge/Docker-red">
     <img src="https://img.shields.io/badge/SQL-orange">
+    <img src="https://img.shields.io/badge/Tableau-blueviolet">
 </p>
 
 <p align=center>
