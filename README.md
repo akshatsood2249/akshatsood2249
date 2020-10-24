@@ -18,8 +18,8 @@
 <!--     <a href="https://GitHub.com/akshatsood2249/StrapDown.js/stargazers/" target="_blank"><img src="https://img.shields.io/github/stars/akshatsood2249/StrapDown.js.svg?style=social&label=Star&maxAge=2592000"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <a href="https://GitHub.com/akshatsood2249/StrapDown.js/network/" target="_blank"><img src="https://img.shields.io/github/forks/akshatsood2249/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000"></a> -->
 </p>
-
-<p align=center>
+<br><br>
+<p>
     <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" align=right width='410'>
 I am an ardent follower of Data Science with a rich interest in the domain of <b>Reinforcement Learning</b> witnessing its herculean impact all over the globe. I have assembled a lot of Projects to hone my skills and map my theoritical knowledge on a practical scale. 
     
