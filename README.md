@@ -15,7 +15,7 @@
 
 <p align=center>
     <img src="https://komarev.com/ghpvc/?username=akshatsood2249&color=blue">
-    <img src="https://badges.pufler.dev/repos/akshatsood2249">
+<!--     <img src="https://badges.pufler.dev/repos/akshatsood2249"> -->
     <a href="https://github.com/akshatsood2249?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/akshatsood2249.svg?style=social&label=Follow&maxAge=2592000"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <!--     <a href="https://GitHub.com/akshatsood2249/StrapDown.js/stargazers/" target="_blank"><img src="https://img.shields.io/github/stars/akshatsood2249/StrapDown.js.svg?style=social&label=Star&maxAge=2592000"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <a href="https://GitHub.com/akshatsood2249/StrapDown.js/network/" target="_blank"><img src="https://img.shields.io/github/forks/akshatsood2249/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000"></a> -->
