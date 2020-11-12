@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Python-blue">
     <img src="https://img.shields.io/badge/Reinforcement Learning-important">
     <img src="https://img.shields.io/badge/Javascript-yellow">
-    <img src="https://img.shields.io/badge/ReactJS-critical">
+    <img src="https://img.shields.io/badge/NodeJS-critical">
     <img src="https://img.shields.io/badge/C++-blue">
     <img src="https://img.shields.io/badge/Docker-red">
     <img src="https://img.shields.io/badge/SQL-orange">
